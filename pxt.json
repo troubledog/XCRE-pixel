@@ -1,7 +1,7 @@
 {
-    "name": "neopixel",
-    "version": "0.6.12",
-    "description": "AdaFruit NeoPixel driver",
+    "name": "XCRE-neopixel",
+    "version": "0.3.2",
+    "description": "NeoPixel driver for sk6812",
     "license": "MIT",
     "dependencies": {
         "core": "*",
