@@ -1,6 +1,6 @@
 {
     "name": "XCRE-neopixel",
-    "version": "0.0.3",
+    "version": "0.0.2",
     "description": "NeoPixel driver for sk6812",
     "license": "MIT",
     "dependencies": {
